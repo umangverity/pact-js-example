@@ -13,7 +13,7 @@ pact.publishPacts(opts)
   .then(() => {
     console.log('Pact contract publishing complete!')
     console.log('')
-    console.log('Head over to https://test.pact.dius.com.au/ and login with')
+    console.log('Head over to https://test.pactflow.io/ and login with')
     console.log('=> Username: dXfltyFMgNOFZAxr8io9wJ37iUpY42M')
     console.log('=> Password: O5AIZWxelWbLvqMd8PkAVycBJh2Psyg1')
     console.log('to see your published contracts.')
